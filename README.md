@@ -4,6 +4,7 @@
 - 👀 I’m interested in JS,Node,Python,Java,CSS,HTML
 
 ## __Skills__
+__web developement__
 - HTML
 - CSS
 - JavaScript
