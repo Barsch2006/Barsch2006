@@ -8,6 +8,9 @@ __web developement__
 - HTML
 - CSS
 - JavaScript
+__backend__
+- Node.js
+- Typescript
 
 ## __Projects__
   ### <a href="https://github.com/Mickhat/FloBot/">Flobot</a>
