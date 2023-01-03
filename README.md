@@ -10,7 +10,7 @@
 - Node.js
 - Typescript
 - Java
-- [Python] 1/2 a
+- Python
 
 ## __Projects__
 ### <a href="https://github.com/Mickhat/FloBot/">Flobot</a>
