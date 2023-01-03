@@ -13,5 +13,7 @@
 - Python
 
 ## __Projects__
-### <a href="https://github.com/Mickhat/FloBot/">Flobot</a>
-  
+  ### <a href="https://github.com/Mickhat/FloBot/">Flobot</a>
+  - Typescript
+  - Discord.js
+  - SQLite3
