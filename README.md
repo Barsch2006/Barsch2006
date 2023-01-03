@@ -4,9 +4,9 @@
 - 👀 I’m interested in JS,Node,Python,Java,CSS,HTML
 
 ## __Skills__
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## __Projects__
   ### <a href="https://github.com/Mickhat/FloBot/">Flobot</a>
