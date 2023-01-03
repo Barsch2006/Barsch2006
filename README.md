@@ -8,6 +8,7 @@ __web developement__
 - HTML
 - CSS
 - JavaScript
+
 __backend__
 - Node.js
 - Typescript
