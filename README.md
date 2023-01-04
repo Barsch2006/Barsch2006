@@ -24,3 +24,4 @@ __desktop applications__
   - Typescript
   - Discord.js
   - SQLite3
+  ### Check out my public repos ;)
