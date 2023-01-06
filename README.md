@@ -1,5 +1,6 @@
 ## __About me__
-👋 Hi, I’m Christian F. aka  @Barsch2006
+Christian F. aka  @Barsch2006
+Student Germany
 
 ## __Skills__
 __web developement__
