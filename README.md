@@ -22,7 +22,12 @@ __desktop applications__
 
 ## __Projects__
   ### <a href="https://github.com/Mickhat/FloBot/">Flobot</a>
+  - Moderation Discord Bot
   - Typescript
   - Discord.js
   - SQLite3
+  ### <a href="https://github.com/filip326/bob/">Bob</a>
+  - Programm to learn Programming
+  - JavaScript
+  - HTML, CSS
   ### Check out my public repos ;)
