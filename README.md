@@ -27,7 +27,7 @@ __desktop applications__
   - Discord.js
   - SQLite3
   ### <a href="https://github.com/filip326/bob/">Bob</a>
-  - Programm to learn Programming
+  - Program to learn coding
   - JavaScript
   - HTML, CSS
   ### Check out my public repos ;)
