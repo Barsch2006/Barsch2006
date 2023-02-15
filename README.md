@@ -30,7 +30,7 @@ __scripts__
   - Program to learn coding
   - JavaScript
   - HTML, CSS
-   ### <a href="https://github.com/filip326/Schulliste>Userlist</a>
+   ### <a href="https://github.com/filip326/Schulliste">Userlist</a>
   - Program to get all Users Names and Global Classes on Windows
   - C#
   ### Check out my public repos ;)
