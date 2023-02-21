@@ -1,6 +1,6 @@
 ## __About me__
 Christian F. aka  @Barsch2006
-Student Germany
+Germany
 
 ## __Skills__
 __web developement__
