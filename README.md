@@ -12,12 +12,9 @@ __backends__
 - Node.js
 - Typescript
 
-__mobile and desktop applications__
+__others (learning or only basics or others)__
 - Java
 - Dart (Flutter)
-
-__scripts__
-- Node.js
 - Python
 
 ## __Projects__
